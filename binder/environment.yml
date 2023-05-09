@@ -1,6 +1,8 @@
 name: myenv
 channels:
   - pip
+  - conda-forge
+  - my-channel
 dependencies:
   - python=3.8
   - pandas
@@ -14,3 +16,4 @@ dependencies:
   - re
   - urllib
   - html2image
+  - datetime
