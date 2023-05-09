@@ -11,8 +11,4 @@ dependencies:
   - ipywidgets
   - plotnine
   - pycountry
-  - flagpy
-  - re
-  - urllib
-  - html2image
   - datetime
