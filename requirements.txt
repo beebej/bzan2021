@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+requests
+ipywidgets
+pycountry
+IPython
+plotnine
+urllib
+html2image
+re
+datetime
