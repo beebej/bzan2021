@@ -6,8 +6,4 @@ ipywidgets
 pycountry
 IPython
 plotnine
-urllib
-html2image
-re
 datetime
-flagpy
