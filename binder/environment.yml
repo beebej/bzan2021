@@ -1,0 +1,17 @@
+name: myenv
+channels:
+  - conda-forge
+  - pip
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - requests
+  - ipywidgets
+  - plotnine
+  - pycountry
+  - flagpy
+  - re
+  - urllib
+  - html2image
