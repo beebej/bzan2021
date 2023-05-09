@@ -10,4 +10,3 @@ dependencies:
   - ipywidgets
   - plotnine
   - pycountry
-  - datetime
