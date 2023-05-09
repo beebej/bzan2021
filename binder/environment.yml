@@ -1,7 +1,6 @@
 name: myenv
 channels:
   - pip
-  - conda-forge
   - my-channel
 dependencies:
   - python=3.8
