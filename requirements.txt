@@ -10,3 +10,4 @@ urllib
 html2image
 re
 datetime
+flagpy
